@@ -17,8 +17,9 @@ dependencies:
   path_provider: ^2.0.11
 
 dependency_overrides:
-  # ffmpeg_kit_flutter_https: any
   ffmpeg_kit_flutter: any
+  ffmpeg_kit_flutter_full: any
+  ffmpeg_kit_flutter_full_gpl: any
 
 dev_dependencies:
   flutter_test:
