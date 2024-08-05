@@ -20,6 +20,7 @@ dependency_overrides:
   ffmpeg_kit_flutter: any
   ffmpeg_kit_flutter_full: any
   ffmpeg_kit_flutter_full_gpl: any
+  ffmpeg_kit_flutter_https: any
 
 dev_dependencies:
   flutter_test:
